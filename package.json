@@ -1,0 +1,17 @@
+{
+  "name": "girgittonka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/girgitton.js",
+    "start:dev": "nodemon src/girgitton.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0"
+  }
+}
